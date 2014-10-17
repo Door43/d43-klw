@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[klw:home|Door43 (klw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-klw|d43-klw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-klw/archive/master.zip|d43-klw.zip]]
+
+**Recent Changes**
+{{changes>ns = klw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/klw|Ethnologue data]]
+
